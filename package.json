@@ -1,0 +1,26 @@
+{
+  "name": "html5-imageuploader",
+  "version": "1.0.0",
+  "description": "The primary goal of this project is ImageUploader.js, a javascript module which can perform client-side resizing of images and uploads to a remote server using only HTML5 features (e.g. the Canvas and FileReader APIs).",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GroM/HTML5-ImageUploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GroM/HTML5-ImageUploader/issues"
+  },
+  "homepage": "https://github.com/GroM/HTML5-ImageUploader#readme"
+}
